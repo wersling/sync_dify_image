@@ -2,7 +2,7 @@
 ## 优先使用 [public-image-mirror](https://github.com/DaoCloud/public-image-mirror), 他们代理了langgenius的所有镜像
 ```
 #举例
-langgenius/dify-web:1.0.0 -> docker.m.daocloud.io/langgenius/dify-web:1.0.0
+langgenius/dify-web:1.0.0 -> docker.m.daocloud.io/langgenius/dify-web:1.5.0
 ```
 ## 功能
 
